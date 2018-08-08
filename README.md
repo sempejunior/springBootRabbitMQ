@@ -1,4 +1,4 @@
-# springBootRabbitMQ
+# SpringBoot and RabbitMQ
 Project integration with Spring Boot and RabbitMQ
 This project is example to integration with Spring Boot and RabbitMQ.
 
